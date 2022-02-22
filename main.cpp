@@ -8,7 +8,3 @@ float min = n1;
 
   return min;
 }
-	
-	
-	return 0;
-}
